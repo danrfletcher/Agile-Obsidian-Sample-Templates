@@ -1,1 +1,0 @@
-# Agile-Obsidian-Sample-Templates
