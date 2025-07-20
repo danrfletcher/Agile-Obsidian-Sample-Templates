@@ -1,0 +1,1 @@
+<mark style="background: linear-gradient(to right, #f0c27b, #4b1248); color: #FFFFFF"><strong>📚 </strong></mark>

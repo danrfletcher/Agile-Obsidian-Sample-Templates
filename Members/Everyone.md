@@ -1,0 +1,1 @@
+<mark class="active-team internal-link" style="background: #FFFFFF; color: #000000"><strong>🤝 Everyone</strong></mark>
